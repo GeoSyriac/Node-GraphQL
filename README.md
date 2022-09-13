@@ -5,4 +5,4 @@
 		b. npm i --save-dev nodemon
 	3. Modify package.json
 	4. Create server.js
-  5. npm run devStart
+	5. npm run devStart
